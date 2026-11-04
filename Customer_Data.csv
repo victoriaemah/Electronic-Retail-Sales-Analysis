@@ -1,0 +1,251 @@
+CustomerID,CustomerName,Region,Age,Gender,IncomeLevel,SignupDate
+1,John Doe,East,35,Female,High,01/05/2020
+2,Fatima Bello,West,35,Male,High,15/07/2022
+3,Fatima Bello, North ,30,Male,High,15/07/2022
+4,John Doe, North ,35,Male,High,15/07/2022
+5,Mary Ann,South,30,Female,High,01/05/2020
+6,Mary Ann,South,35,Female,Low,12/06/2021
+7,Fatima Bello,South,30,Female,Low,01/05/2020
+8,Chinedu Okafor,East,35,Female,Medium,15/07/2022
+9,Chinedu Okafor,South,35,Female,Medium,01/05/2020
+10,John Doe,South,30,Female,Medium,12/06/2021
+11,John Doe,South,25,Female,High,12/06/2021
+12,Mary Ann, North ,30,Male,Low,15/07/2022
+13,Mary Ann, North ,25,Female,Low,15/07/2022
+14,Mary Ann,West,35,Female,High,01/05/2020
+15,Fatima Bello,South,30,Female,Low,15/07/2022
+16,John Doe, North ,35,Male,Medium,15/07/2022
+17,John Doe,West,40,Female,High,15/07/2022
+18,John Doe,East,35,Female,High,01/05/2020
+19,Chinedu Okafor,North,40,Female,High,15/07/2022
+20,Mary Ann,East,35,Female,Low,01/05/2020
+21,Mary Ann,North,40,Male,Medium,12/06/2021
+22,John Doe,South,25,Female,Medium,12/06/2021
+23,John Doe,West,30,Female,Medium,12/06/2021
+24,Fatima Bello,East,35,Female,Medium,15/07/2022
+25,Chinedu Okafor,South,25,Female,Low,01/05/2020
+26,Chinedu Okafor,North,25,Female,High,01/05/2020
+27,Chinedu Okafor,North,40,Female,Medium,01/05/2020
+28,Mary Ann,South,30,Female,Low,01/05/2020
+29,Fatima Bello,North,25,Female,Medium,15/07/2022
+30,Mary Ann,North,25,Male,Low,01/05/2020
+31,Chinedu Okafor,East,35,Female,Medium,12/06/2021
+32,Mary Ann,East,25,Male,High,12/06/2021
+33,Mary Ann,West,40,Female,High,15/07/2022
+34,Mary Ann,East,40,Male,Medium,12/06/2021
+35,Mary Ann,North,30,Female,Medium,12/06/2021
+36,John Doe,South,25,Female,High,12/06/2021
+37,John Doe, North ,40,Male,High,15/07/2022
+38,Mary Ann,North,40,Male,Medium,12/06/2021
+39,Fatima Bello,West,35,Male,High,15/07/2022
+40,Fatima Bello,North,30,Male,Medium,15/07/2022
+41,Fatima Bello, North ,30,Female,Medium,12/06/2021
+42,John Doe,South,35,Female,Low,01/05/2020
+43,John Doe,South,40,Male,High,12/06/2021
+44,Mary Ann,East,30,Male,High,01/05/2020
+45,Mary Ann,South,25,Female,Medium,12/06/2021
+46,Chinedu Okafor,South,30,Male,High,15/07/2022
+47,Mary Ann,North,40,Female,Medium,01/05/2020
+48,Mary Ann,South,30,Male,Medium,01/05/2020
+49,John Doe,West,35,Female,Medium,01/05/2020
+50,Mary Ann,North,35,Female,Low,01/05/2020
+51,John Doe,East,40,Female,Medium,01/05/2020
+52,John Doe,East,25,Female,Medium,15/07/2022
+53,Fatima Bello,South,30,Female,Medium,15/07/2022
+54,John Doe,East,30,Female,High,01/05/2020
+55,Chinedu Okafor,South,35,Female,High,01/05/2020
+56,Fatima Bello,South,40,Female,High,12/06/2021
+57,Chinedu Okafor,East,35,Male,Low,12/06/2021
+58,John Doe,West,35,Male,Medium,12/06/2021
+59,Fatima Bello,South,35,Female,Low,01/05/2020
+60,John Doe,South,25,Female,Medium,12/06/2021
+61,Fatima Bello,West,35,Female,Medium,01/05/2020
+62,Chinedu Okafor,West,40,Female,Low,01/05/2020
+63,John Doe, North ,35,Male,Low,01/05/2020
+64,Fatima Bello, North ,25,Female,Low,01/05/2020
+65,John Doe,East,40,Female,Low,12/06/2021
+66,Chinedu Okafor,East,35,Male,Low,15/07/2022
+67,Mary Ann,East,35,Female,Medium,12/06/2021
+68,Fatima Bello,West,25,Female,Medium,01/05/2020
+69,Mary Ann,East,25,Male,High,01/05/2020
+70,John Doe,North,40,Female,High,15/07/2022
+71,Mary Ann,West,30,Female,High,15/07/2022
+72,Mary Ann,South,40,Female,High,15/07/2022
+73,John Doe,South,40,Male,Low,12/06/2021
+74,Fatima Bello,West,40,Female,Medium,01/05/2020
+75,Fatima Bello,East,35,Female,High,15/07/2022
+76,John Doe,East,35,Female,Low,15/07/2022
+77,John Doe,North,30,Female,Low,01/05/2020
+78,John Doe,East,25,Female,Medium,15/07/2022
+79,Chinedu Okafor,West,30,Female,Medium,12/06/2021
+80,John Doe,East,25,Male,Medium,12/06/2021
+81,Chinedu Okafor,West,40,Female,High,01/05/2020
+82,Fatima Bello,South,30,Female,Medium,12/06/2021
+83,Chinedu Okafor,West,25,Female,Low,01/05/2020
+84,John Doe,East,30,Male,Medium,01/05/2020
+85,John Doe,East,40,Female,Low,15/07/2022
+86,Fatima Bello,South,30,Male,Medium,01/05/2020
+87,Mary Ann,West,25,Female,Low,01/05/2020
+88,Chinedu Okafor,East,40,Male,High,15/07/2022
+89,Chinedu Okafor,West,35,Female,Medium,15/07/2022
+90,John Doe,South,40,Male,High,15/07/2022
+91,Chinedu Okafor,North,35,Male,Low,15/07/2022
+92,Chinedu Okafor,West,35,Male,High,01/05/2020
+93,Chinedu Okafor, North ,25,Female,Medium,15/07/2022
+94,Mary Ann,North,35,Female,Medium,12/06/2021
+95,John Doe,East,40,Female,Medium,12/06/2021
+96,Mary Ann,South,25,Male,Low,15/07/2022
+97,Mary Ann,South,40,Male,Low,12/06/2021
+98,Fatima Bello,East,35,Female,Medium,12/06/2021
+99,Chinedu Okafor, North ,25,Female,Medium,12/06/2021
+100,Fatima Bello,South,40,Male,High,01/05/2020
+101,John Doe,South,30,Female,Low,01/05/2020
+102,Mary Ann, North ,25,Female,High,12/06/2021
+103,Mary Ann,West,25,Male,High,01/05/2020
+104,Fatima Bello,South,25,Male,High,12/06/2021
+105,Mary Ann, North ,25,Female,Medium,01/05/2020
+106,Fatima Bello,South,25,Male,Low,15/07/2022
+107,Mary Ann, North ,40,Female,Medium,01/05/2020
+108,Chinedu Okafor,West,30,Male,Low,01/05/2020
+109,Mary Ann,North,35,Female,Medium,12/06/2021
+110,Chinedu Okafor, North ,40,Male,Medium,15/07/2022
+111,Fatima Bello,North,40,Female,Low,15/07/2022
+112,John Doe,East,35,Female,High,15/07/2022
+113,John Doe, North ,35,Male,Low,12/06/2021
+114,Chinedu Okafor,North,35,Female,Medium,01/05/2020
+115,John Doe,East,25,Female,Medium,15/07/2022
+116,John Doe,South,30,Male,Low,01/05/2020
+117,Chinedu Okafor,South,30,Female,High,15/07/2022
+118,Chinedu Okafor, North ,30,Male,High,01/05/2020
+119,Chinedu Okafor,South,30,Female,High,12/06/2021
+120,Fatima Bello, North ,35,Male,High,12/06/2021
+121,Mary Ann,East,40,Male,High,12/06/2021
+122,Chinedu Okafor,North,35,Male,High,01/05/2020
+123,John Doe,West,35,Female,Low,01/05/2020
+124,Chinedu Okafor, North ,40,Male,Medium,01/05/2020
+125,Mary Ann,North,25,Female,Medium,15/07/2022
+126,Chinedu Okafor,West,35,Female,Low,01/05/2020
+127,Mary Ann,East,40,Male,High,12/06/2021
+128,John Doe,East,30,Female,Medium,12/06/2021
+129,Fatima Bello,West,30,Male,Medium,15/07/2022
+130,Fatima Bello,South,35,Female,Medium,01/05/2020
+131,Fatima Bello,South,25,Male,Low,01/05/2020
+132,Fatima Bello,East,25,Female,High,12/06/2021
+133,John Doe,East,40,Male,Medium,01/05/2020
+134,John Doe,West,35,Male,High,01/05/2020
+135,John Doe,West,40,Female,Low,12/06/2021
+136,John Doe,East,30,Male,Medium,15/07/2022
+137,Chinedu Okafor,West,40,Male,High,12/06/2021
+138,Fatima Bello,North,30,Female,High,01/05/2020
+139,John Doe,South,35,Female,High,15/07/2022
+140,Mary Ann,West,40,Female,Medium,15/07/2022
+141,Chinedu Okafor,East,40,Female,Medium,15/07/2022
+142,Mary Ann,South,40,Female,Medium,12/06/2021
+143,Fatima Bello, North ,40,Male,Medium,01/05/2020
+144,Chinedu Okafor,East,30,Female,High,12/06/2021
+145,John Doe,North,40,Female,Medium,01/05/2020
+146,Fatima Bello,East,25,Male,Medium,15/07/2022
+147,Fatima Bello,East,30,Female,Low,12/06/2021
+148,Fatima Bello,West,25,Female,Medium,12/06/2021
+149,John Doe,East,35,Female,Low,01/05/2020
+150,Fatima Bello,East,35,Female,High,15/07/2022
+151,Fatima Bello, North ,35,Female,High,01/05/2020
+152,John Doe,East,30,Female,Medium,15/07/2022
+153,Fatima Bello,East,40,Female,High,15/07/2022
+154,John Doe,West,40,Male,Low,12/06/2021
+155,John Doe,West,40,Female,Low,01/05/2020
+156,John Doe, North ,30,Female,High,01/05/2020
+157,Mary Ann,North,25,Female,Low,15/07/2022
+158,John Doe,East,25,Female,Low,01/05/2020
+159,John Doe, North ,25,Male,Low,15/07/2022
+160,Mary Ann,North,35,Female,Low,12/06/2021
+161,John Doe, North ,25,Male,Low,12/06/2021
+162,Fatima Bello, North ,40,Female,Medium,12/06/2021
+163,Fatima Bello,West,40,Female,Low,12/06/2021
+164,Mary Ann,West,30,Female,High,01/05/2020
+165,John Doe,South,40,Female,High,15/07/2022
+166,John Doe,West,35,Female,Medium,01/05/2020
+167,Chinedu Okafor,South,30,Female,Medium,12/06/2021
+168,John Doe, North ,40,Male,High,01/05/2020
+169,John Doe, North ,40,Female,Low,12/06/2021
+170,Mary Ann,West,35,Female,Medium,12/06/2021
+171,Chinedu Okafor,East,30,Female,Low,12/06/2021
+172,Mary Ann,West,30,Male,High,15/07/2022
+173,Mary Ann,West,35,Female,Medium,15/07/2022
+174,John Doe,East,30,Female,Low,15/07/2022
+175,John Doe,East,30,Female,Low,15/07/2022
+176,John Doe,South,25,Female,Medium,15/07/2022
+177,Chinedu Okafor,East,30,Male,High,12/06/2021
+178,Mary Ann,North,35,Female,Medium,12/06/2021
+179,Mary Ann,West,25,Female,High,12/06/2021
+180,Fatima Bello,West,35,Female,Low,15/07/2022
+181,Fatima Bello,North,40,Male,High,15/07/2022
+182,Mary Ann,South,40,Female,Medium,12/06/2021
+183,Fatima Bello,East,30,Female,High,15/07/2022
+184,John Doe,East,30,Male,Medium,01/05/2020
+185,John Doe,South,40,Female,Low,15/07/2022
+186,Chinedu Okafor,West,30,Female,High,01/05/2020
+187,John Doe,South,35,Male,Low,15/07/2022
+188,Fatima Bello,North,35,Female,Low,15/07/2022
+189,Fatima Bello,West,35,Male,Medium,12/06/2021
+190,Chinedu Okafor,North,35,Male,High,12/06/2021
+191,John Doe,East,30,Female,High,12/06/2021
+192,Mary Ann, North ,30,Female,Low,12/06/2021
+193,Chinedu Okafor,North,40,Female,Low,01/05/2020
+194,Mary Ann,North,30,Female,Medium,12/06/2021
+195,Chinedu Okafor,West,30,Male,Low,12/06/2021
+196,Fatima Bello, North ,40,Female,Medium,12/06/2021
+197,Chinedu Okafor,West,30,Female,Medium,12/06/2021
+198,Fatima Bello,East,35,Female,Low,01/05/2020
+199,Mary Ann,South,35,Female,High,12/06/2021
+200,Chinedu Okafor,South,35,Female,Low,01/05/2020
+201,Mary Ann,East,40,Male,Medium,15/07/2022
+202,Fatima Bello,West,25,Male,High,01/05/2020
+203,Chinedu Okafor,East,40,Female,High,01/05/2020
+204,John Doe,East,40,Female,High,15/07/2022
+205,John Doe,West,30,Male,Low,01/05/2020
+206,John Doe, North ,25,Female,Medium,01/05/2020
+207,Mary Ann,South,35,Female,Medium,01/05/2020
+208,Fatima Bello, North ,25,Female,Low,12/06/2021
+209,Chinedu Okafor,West,30,Male,Medium,12/06/2021
+210,Fatima Bello,West,30,Female,Low,12/06/2021
+211,Mary Ann,East,25,Female,Low,15/07/2022
+212,John Doe,West,30,Female,High,01/05/2020
+213,Chinedu Okafor, North ,35,Male,High,15/07/2022
+214,Fatima Bello,South,40,Male,Low,12/06/2021
+215,Fatima Bello,East,25,Female,Low,15/07/2022
+216,Fatima Bello,North,40,Female,Low,15/07/2022
+217,Mary Ann,South,35,Female,High,01/05/2020
+218,Chinedu Okafor,East,40,Male,Low,12/06/2021
+219,Chinedu Okafor,North,40,Male,High,12/06/2021
+220,Chinedu Okafor,South,35,Female,Medium,15/07/2022
+221,Mary Ann,North,35,Male,Low,15/07/2022
+222,Mary Ann,West,25,Female,Low,01/05/2020
+223,John Doe, North ,30,Female,High,01/05/2020
+224,Fatima Bello, North ,25,Female,Low,15/07/2022
+225,Mary Ann,South,30,Female,High,01/05/2020
+226,Fatima Bello,South,35,Male,Medium,01/05/2020
+227,John Doe,East,35,Male,Low,15/07/2022
+228,Mary Ann,East,40,Male,Medium,01/05/2020
+229,Fatima Bello,North,35,Female,High,12/06/2021
+230,Fatima Bello, North ,40,Female,Medium,15/07/2022
+231,Fatima Bello, North ,35,Female,Medium,15/07/2022
+232,Chinedu Okafor, North ,30,Female,Medium,12/06/2021
+233,Fatima Bello, North ,35,Male,Medium,12/06/2021
+234,Fatima Bello, North ,25,Male,High,12/06/2021
+235,Fatima Bello, North ,30,Male,Medium,12/06/2021
+236,Fatima Bello,West,30,Female,High,01/05/2020
+237,Mary Ann, North ,30,Male,Medium,15/07/2022
+238,Chinedu Okafor, North ,35,Female,Low,12/06/2021
+239,John Doe, North ,25,Female,Low,01/05/2020
+240,Chinedu Okafor,North,25,Male,High,01/05/2020
+241,Chinedu Okafor, North ,40,Female,Low,01/05/2020
+242,Chinedu Okafor, North ,35,Female,Medium,12/06/2021
+243,Fatima Bello,East,35,Male,High,01/05/2020
+244,Mary Ann,West,30,Male,Medium,01/05/2020
+245,Mary Ann,East,30,Female,Medium,01/05/2020
+246,Chinedu Okafor,East,40,Male,Medium,12/06/2021
+247,Chinedu Okafor,South,40,Female,Medium,15/07/2022
+248,Mary Ann,East,25,Female,High,01/05/2020
+249,Mary Ann,North,40,Female,High,15/07/2022
+250,Fatima Bello,South,25,Female,Medium,01/05/2020
