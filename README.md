@@ -80,3 +80,5 @@ Recommendations
 4. Improve inventory planning using colour and product demand - Avoid discontinuing slower-selling products until their margins and customer demand have been evaluated.
 5. Improve customer acquisition tracking - Collect consistent monthly customer sign-up data.
 
+### Note
+Check the files section for datasets, SQL queries, project documentation, and the dashboard.
