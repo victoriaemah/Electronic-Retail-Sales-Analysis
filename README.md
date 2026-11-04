@@ -1,11 +1,11 @@
 # Electronic-Retail-Sales-Analysis
 ## Table of Content
- - [Project Overview](project-overview)
- - [Business Introduction/Problem](business-introduction/problem)
- - [Aim of the Project](aim-of-the-project)
- - [Tools](tools)
- - [Project Workflow](project-workflow)
- - [Insights and Recommendations](insights-and-recommendations)
+ - [Project Overview](#project-overview)
+ - [Business Introduction/Problem](#business-introduction)
+ - [Aim of the Project](#aim-of-the-project)
+ - [Tools](#tools)
+ - [Project Workflow](#project-workflow)
+ - [Insights and Recommendations](#insights-and-recommendations)
 
 ### Project Overview
 This project examines retail customer shopping behaviour by analyzing transactional data from an electronics company to understand customer purchasing behaviour, product performance, brand profitability, and overall business performance.
@@ -14,7 +14,7 @@ The project uses SQL for data analysis and Power BI to develop an interactive da
 
 <img width="767" height="433" alt="Screenshot 2026-10-24 124158" src="https://github.com/user-attachments/assets/70ce1496-ab5c-4adc-8f0c-09bcde141483" />
 
-### Business Introduction/Problem
+### Business Introduction
 An electronics retail company sells a variety of electronic products and accessories across multiple regions. The company works with well-known brands such as Dell, Asus, HP, Samsung, Lenovo, and Apple. 
 
 Despite generating substantial electronics sales, management lacks an integrated system to identify which customers, products, brands, and regions drive the most revenue and profit. This project analyzes business performance using sales, customer, and product data, from data cleaning to creating an interactive dashboard. The goal is to optimize customer behaviour and retention while solidifying the key drivers of revenue and profit.
