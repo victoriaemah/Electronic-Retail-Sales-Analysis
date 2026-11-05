@@ -47,6 +47,7 @@ Step 2: Data Validation
 - Validated relationships between Sales, Customers, and Products.
 
 Step 3: Data Analysis Using SQL
+
 Developed SQL queries to answer key business questions, including:
 - What is the overall revenue, profit, and profit margin?
 - Which brands contribute the most to total profit?
